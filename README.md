@@ -80,6 +80,6 @@ After following the installation steps, you can view the website at `http://loca
 
 ## Contact
 
-Your Name – [@your_twitter](https://twitter.com/your_twitter) – your_email@example.com
+Yusukedao – Discord:yusukedao – yusuke20080610@gmail.com
 
 Project Link: [https://github.com/Yusukedao-0610/OldWebForProducts](https://github.com/Yusukedao-0610/OldWebForProducts)
